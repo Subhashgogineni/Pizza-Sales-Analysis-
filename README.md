@@ -113,7 +113,7 @@ This analysis helps stakeholders:
 * Automate data ingestion using ETL pipelines
 * Build a Power BI or Tableau version of the dashboard
 * Perform customer segmentation analysis
-* Add predictive sales forecasting
+* Add predictive sales forecasting 
 
 ---
 
