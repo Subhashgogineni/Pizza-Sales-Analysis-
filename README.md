@@ -1,6 +1,6 @@
 # 🍕 Pizza Sales Analysis | SQL & Excel
 
-## 📌 Project Overview
+## 📌 Project Overview 
 
 This project performs an **end-to-end sales analysis** on a pizza restaurant dataset using **SQL Server** and **Microsoft Excel**. The goal is to transform raw transactional data into meaningful business insights by calculating key performance indicators (KPIs), analyzing customer ordering behavior, and visualizing trends through an interactive dashboard.
 
